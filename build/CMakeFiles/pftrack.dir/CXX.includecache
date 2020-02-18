@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/hgfs/ubuntu/mosse/src/main.cpp
+tracker.h
+/mnt/hgfs/ubuntu/mosse/src/tracker.h
+assert.h
+-
+selectROI.h
+/mnt/hgfs/ubuntu/mosse/src/selectROI.h
+
+/mnt/hgfs/ubuntu/mosse/src/selectROI.h
+opencv2/opencv.hpp
+-
+map
+-
+
+/mnt/hgfs/ubuntu/mosse/src/tracker.h
+opencv2/opencv.hpp
+-
+

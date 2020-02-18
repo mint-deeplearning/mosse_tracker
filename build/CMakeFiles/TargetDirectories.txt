@@ -1,0 +1,3 @@
+/mnt/hgfs/ubuntu/mosse/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/ubuntu/mosse/build/CMakeFiles/pftrack.dir
+/mnt/hgfs/ubuntu/mosse/build/CMakeFiles/edit_cache.dir
